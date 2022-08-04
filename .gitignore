@@ -20,7 +20,14 @@ derby.log
 .gradletasknamecache
 /build
 buildSrc/build
-/spring-*/build
+/spring-*/build/classes
+/spring-*/build/generated
+/spring-*/build/reports
+/spring-*/build/resources
+/spring-*/build/test-results
+/spring-*/build/tmp
+/spring-*/build/kotlin
+/spring-*/build/logs
 /spring-core/graalvm/build
 /spring-core/kotlin-coroutines/build
 /framework-bom/build
